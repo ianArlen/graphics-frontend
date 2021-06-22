@@ -1,0 +1,70 @@
+.graphic-grid{
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 4%;
+  }
+  
+.left-green{
+  color: rgb(124, 198, 116);
+  float: left; 
+  width: 50%; 
+  text-align: left;
+  border-bottom: solid rgb(189, 186, 186);
+  font-size: 14px;
+}
+  
+.right-green{
+  color: rgb(35, 81, 30);
+  float: left; 
+  width: 50%; 
+  text-align: right;
+  border-bottom:  solid rgb(189, 186, 186);
+  font-size: 14px;
+}
+
+.left-blue{
+  color: rgb(81, 157, 233);
+  float: left; 
+  width: 50%; 
+  text-align: left;
+  border-bottom: solid rgb(189, 186, 186);
+  font-size: 14px;
+}
+
+.right-blue{
+  color: rgb(0, 47, 93);
+  float: left; 
+  width: 50%; 
+  text-align: right;
+  border-bottom:  solid rgb(189, 186, 186);
+  font-size: 14px;
+}
+
+.left-orange{
+  color: rgb(239, 146, 52);
+  float: left; 
+  width: 50%; 
+  text-align: left;
+  border-bottom: solid rgb(189, 186, 186);
+  font-size: 14px;
+}
+
+.right-orange{
+  color: rgb(143, 71, 0);
+  float: left; 
+  width: 50%; 
+  text-align: right;
+  border-bottom:  solid rgb(189, 186, 186);
+  font-size: 14px;
+}
+
+
+
+.percentage{
+  color: black;
+}
+  
+.amount{
+  color: gray;
+}
