@@ -11,7 +11,7 @@
   width: 50%; 
   text-align: left;
   border-bottom: solid rgb(189, 186, 186);
-  font-size: 14px;
+  font-size: 12px;
 }
   
 .right-green{
@@ -20,7 +20,7 @@
   width: 50%; 
   text-align: right;
   border-bottom:  solid rgb(189, 186, 186);
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .left-blue{
@@ -29,7 +29,7 @@
   width: 50%; 
   text-align: left;
   border-bottom: solid rgb(189, 186, 186);
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .right-blue{
@@ -38,7 +38,7 @@
   width: 50%; 
   text-align: right;
   border-bottom:  solid rgb(189, 186, 186);
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .left-orange{
@@ -47,7 +47,7 @@
   width: 50%; 
   text-align: left;
   border-bottom: solid rgb(189, 186, 186);
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .right-orange{
@@ -56,7 +56,7 @@
   width: 50%; 
   text-align: right;
   border-bottom:  solid rgb(189, 186, 186);
-  font-size: 14px;
+  font-size: 12px;
 }
 
 
